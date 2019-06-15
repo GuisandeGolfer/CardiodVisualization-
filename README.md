@@ -7,7 +7,10 @@ author: Diego Guisande
 
 Date: 06/14/2019
 
-This is just a blank template from The Coding Challenge by Daniel Shiffman, that I will be using as an initial commit for different versions of my sketch. 
+I edited the original version of Daniel Shiffman's sketch, and I added sliders to the browser
+
+so that you can edit the stroke color's rgb values, with three different sliders for each value. 
+
 
 Additionally
 ===========
