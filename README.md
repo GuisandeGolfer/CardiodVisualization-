@@ -16,5 +16,5 @@ Additionally
 ===========
 I added a VSCode Snippet to my User/Snippets/ directory for easily making a index.html file for future sketches and projects. 
 
-the 'prefix' for the snippet is just "p5" which should output the snippet, along with ability to edit the 'title' of the HTML file, and the name of 
-the JS file you will be running in the browser. 
+the 'prefix' for the snippet is just "p5" which should output the snippet, along with ability to edit the 'title' of the HTML file, the name of 
+the JS file you will be running in the browser, and the scripts for the p5 DOM library. 
