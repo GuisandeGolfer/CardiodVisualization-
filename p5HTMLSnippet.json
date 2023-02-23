@@ -26,6 +26,6 @@
 			"</body>",
 			"</html>"
 		],
-		"description": "creates a boilerplate for html the p5 scripts"
+		"description": "creates an HTML boilerplate for p5.js scripts"
 	}
 }
